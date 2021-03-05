@@ -1,4 +1,4 @@
-> # Movie-recommendations
+# Movie-recommendations
 
 
 프로젝트 정의 : 현재 상영 중인 영화 순위, 장르별 순위 등 영화에 대한 정보제공 웹
